@@ -25,5 +25,5 @@
 </p>
 
 
-<a href="https://www.codewars.com/users/dimahoperskiy"><img src="https://www.codewars.com/users/dimahoperskiy/badges/large" alt="codewars" width="50%"/></a>
+<a href="https://www.codewars.com/users/dimahoperskiy" target="_blank"><img src="https://www.codewars.com/users/dimahoperskiy/badges/large" alt="codewars" width="50%"/></a>
 
