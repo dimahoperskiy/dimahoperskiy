@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy, 20 y.o.</h1>
-<h3 align="center">Junior frontend developer from Moscow</h3>
+<h3 align="center">Middle frontend developer</h3>
 
 - 🔭 I’m currently working on [Spotify Friends](https://github.com/dimahoperskiy/spotifyFriendsClient)
 
