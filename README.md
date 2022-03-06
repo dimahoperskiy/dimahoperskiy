@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spotify Friends](https://github.com/dimahoperskiy/spotifyFriendsClient)
 
-- 📫 How to reach me **dimabymerang0@gmail.com**
+- 📫 How to reach me **dimahoperskiy@gmail.com**
 
 - ⚡ Fun fact **The wood frog can hold its pee for up to eight months**
 
