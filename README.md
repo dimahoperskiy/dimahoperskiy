@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitriy, 20 y.o.</h1>
 <h3 align="center">Middle frontend developer</h3>
 
-- 🔭 I’m currently working on [Spotify Friends](https://github.com/dimahoperskiy/spotifyFriendsClient)
-
 - 📫 How to reach me **dimahoperskiy@gmail.com**
 
 - ⚡ Fun fact **The wood frog can hold its pee for up to eight months**
