@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy, 21 y.o.</h1>
-<h3 align="center">Middle frontend developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 📫 How to reach me **dimahoperskiy@gmail.com**
 
