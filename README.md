@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **The wood frog can hold its pee for up to eight months**
 
+- My portfolio <a href="https://dimahoperskiy.github.io/" target="_blank">https://dimahoperskiy.github.io/</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
