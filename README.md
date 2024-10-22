@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dmitriy, 21 y.o.</h1>
+<h1 align="center">Hi 👋, I'm Dmitriy, 22 y.o.</h1>
 <h3 align="center">Frontend developer</h3>
 
 - 📫 How to reach me **dimahoperskiy@gmail.com**
-
-- ⚡ Fun fact **The wood frog can hold its pee for up to eight months**
 
 - My portfolio <a href="https://dimahoperskiy.github.io/" target="_blank">https://dimahoperskiy.github.io/</a>
 
