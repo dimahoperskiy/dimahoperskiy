@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitriy, 22 y.o.</h1>
+<h1 align="center">Hi 👋, I'm Dmitriy, 23 y.o.</h1>
 <h3 align="center">Frontend developer</h3>
 
 - 📫 How to reach me **dimahoperskiy@gmail.com**
